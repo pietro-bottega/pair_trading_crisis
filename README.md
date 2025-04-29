@@ -12,7 +12,7 @@
 
 - `hatford_bear_markets`: resultada da comparação de performance de bear market com normal market, utilizando a classificação de bear market por Hartford
 
-![plot](./assets/hartford_ber_markets.png)
+![plot](./assets/hartford_bear_markets.png)
 
 ## Próximos passos
 
