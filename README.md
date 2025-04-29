@@ -10,12 +10,12 @@
 
 ### /assets
 
-- `hatford_bear_markets`: resultada da comparação de performance de bear market com normal market, utilizando a classificação de bear market por Hartford
+- `hartford_bear_markets`: resultada da comparação de performance de bear market com normal market, utilizando a classificação de bear market por Hartford
 
 ![plot](./assets/hartford_bear_markets.png)
 
 ## Próximos passos
 
 1. Aumentar precisão na definição do momento de crise ou não crise, utilizando período de dias da operação e não apenas semestre (utilizar `distance_gate.py`)
-2. Buscar outras formas de classificação de períodos de crise
+2. Adicionar outros métodos para pairs trading
 3. Utilizar outros parâmetros na comparação entre períodos de crise e não crise, como Sharpe ratio
