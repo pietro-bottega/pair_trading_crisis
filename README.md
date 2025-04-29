@@ -1,4 +1,5 @@
-# Tarefa 5 - Performance compada em períodos de crise e não crise
+# Pairs Trading
+## Performance comparada em períodos de crise e não crise
 
 ## Recursos
 
